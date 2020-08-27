@@ -4,4 +4,5 @@ class ActivitiesController < ApplicationController
         @activities = Activity.all
     end
     
+    
 end
